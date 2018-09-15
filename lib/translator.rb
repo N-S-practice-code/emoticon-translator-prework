@@ -8,7 +8,8 @@ def load_library(file)
   puts h1
   r={"get_emoticon" => {}, "get_meaning" => {}}
   h1.each do |k1, v1|
-    r[]
+    r["get_emoticon"]
+    r["get_meaning"]
   end
   r
 end
