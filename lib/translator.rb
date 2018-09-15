@@ -10,7 +10,7 @@ def load_library(file)
   h1.each do |k1, v1|
     
   end
-  r1
+  r
 end
 
 def get_japanese_emoticon
